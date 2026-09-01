@@ -558,7 +558,7 @@ export default function ScrollScrubIntro() {
                             <div className="scrub-record-card">
 
                                 <img
-                                    src="/assets/record-hangang.png"
+                                    src="/assets/record-hangang-user.jpg"
                                     alt="PLIVY record"
                                 />
 
