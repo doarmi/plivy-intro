@@ -1,0 +1,1 @@
+export default function Hero(){return <section className="hero" id="about"><div><p className="eyebrow">MUSIC DIARY COMMUNITY</p><h1>Music,<br/>made personal.</h1><p>음악과 함께한 순간을 기록하고 다시 발견하는 공간.</p></div><div className="phone"><img src="/assets/record-hangang.png"/><span>실사 스크럽 A → B → C 영역</span></div></section>}
