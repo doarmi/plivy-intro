@@ -15,7 +15,7 @@ export default function FinalCTA() {
                 <h2>
                     당신의 음악에는
                     <br />
-                    어떤 이야기가 있나요?
+                    어떤 이야기가 <br />있나요?
                 </h2>
 
                 <p className="final-description">
