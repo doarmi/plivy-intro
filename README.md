@@ -16,6 +16,13 @@ PLIVY Intro는 음악 다이어리 커뮤니티 **PLIVY**의 서비스 컨셉을
 
 ------------------------------------------------------------------------
 
+## Live Demo
+
+🔗 **PLIVY Intro**  
+https://plivy-intro.vercel.app
+
+> PLIVY의 서비스 컨셉과 핵심 경험을 스크롤 인터랙션으로 소개하는 랜딩 페이지입니다.
+
 ## 주요 구성
 
 ### 1. Scroll Scrub Intro
